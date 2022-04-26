@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anas-fladdra
-- 👀 I’m interested in Cloud Technologies.
-- 🌱 I’m currently learning RASA Framework for making chatbots.
-- 💞️ I’m looking to collaborate on AI Projects.
+- 👀 I’m interested in Backend Technologies.
+- 🌱 I’m currently learning Go.
+- 💞️ I’m looking to collaborate on Projects involving Django and Flask.
 - 📫 How to reach me mohammad.anas@fladdra.com
 
 <!---
